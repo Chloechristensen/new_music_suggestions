@@ -1,0 +1,377 @@
+.App {
+  text-align: center;
+  color: #F5F5F5;
+  background: #282828;
+  min-height: 330vh;
+  font-weight: bold;
+}
+
+.container1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 60vh;
+  margin-right: 7px;
+}
+
+.container6 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 60vh;
+  margin-left: 7px;
+}
+
+.rectangle6 {
+  width: 250px;
+  height: 345px;
+  border-radius: 10px;
+  background-color: #404040;
+  margin-right: 10px;
+  display: block;
+  margin-bottom: 10px;
+  transition: 0.4s;
+  font-size:20px;
+}
+
+.rectangle1 {
+width: 250px;
+  height: 345px;
+  border-radius: 10px;
+  background-color: #404040;
+  margin-right: 10px;
+  display: block;
+  margin-bottom: 10px;
+  transition: 0.4s;
+  font-size:20px;
+}
+
+.container2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 60vh;
+  margin-right: 7px;
+
+}
+
+.container7 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 60vh;
+  margin-left: 7px;
+}
+
+.rectangle7 {
+  width: 250px;
+  height: 345px;
+  border-radius: 10px;
+  background-color: #404040;
+  margin-right: 10px;
+  display: block;
+  margin-bottom: 10px;
+  transition: 0.4s;
+  font-size:20px;
+
+}
+
+.rectangle2 {
+  width: 250px;
+  height: 345px;
+  border-radius: 10px;
+  background-color: #404040;
+  margin-right: 10px;
+  display: block;
+  margin-bottom: 10px;
+  transition: 0.4s;
+  font-size:20px;
+
+}
+
+.container3 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 60vh;
+  margin-right: 7px;
+}
+
+.container8 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 60vh;
+  margin-left: 7px;
+}
+
+.rectangle3 {
+  width: 250px;
+  height: 345px;
+  border-radius: 10px;
+  background-color: #404040;
+  margin-right: 10px;
+  display: block;
+  margin-bottom: 10px;
+  transition: 0.4s;
+  font-size:20px;
+
+}
+
+.rectangle8 {
+  width: 250px;
+  height: 345px;
+  border-radius: 10px;
+  background-color: #404040;
+  margin-right: 10px;
+  display: block;
+  margin-bottom: 10px;
+  transition: 0.4s;
+  font-size:20px;
+
+}
+
+.container4 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 60vh;
+  margin-right: 7px;
+}
+
+.container9 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 60vh;
+  margin-left: 7px;
+}
+
+.rectangle4 {
+  width: 250px;
+  height: 345px;
+  border-radius: 10px;
+  background-color: #404040;
+  margin-right: 10px;
+  display: block;
+  margin-bottom: 10px;
+  transition: 0.4s;
+  font-size:20px;
+
+}
+
+.rectangle9 {
+  width: 250px;
+  height: 345px;
+  border-radius: 10px;
+  background-color: #404040;
+  margin-right: 10px;
+  display: block;
+  margin-bottom: 10px;
+  transition: 0.4s;
+  font-size:20px;
+
+}
+
+.container5 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 60vh;
+  margin-right: 7px;
+}
+
+.container10 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 60vh;
+  margin-left: 7px;
+}
+
+.rectangle5 {
+  width: 250px;
+  height: 345px;
+  border-radius: 10px;
+  background-color: #404040;
+  margin-right: 10px;
+  display: block;
+  margin-bottom: 10px;
+  transition: 0.4s;
+  font-size: 20px;
+  font-size:20px;
+
+}
+
+.rectangle10 {
+  width: 250px;
+  height: 345px;
+  border-radius: 10px;
+  background-color: #404040;
+  margin-right: 10px;
+  display: block;
+  margin-bottom: 10px;
+  transition: 0.4s;
+  font-size:20px;
+
+}
+
+.rectangle1:hover {
+  filter: brightness(150%);
+}
+
+.rectangle2:hover {
+  filter: brightness(150%);
+}
+
+.rectangle3:hover {
+  filter: brightness(150%);
+}
+
+.rectangle4:hover {
+  filter: brightness(150%);
+}
+
+.rectangle5:hover {
+  filter: brightness(150%);
+}
+
+.rectangle6:hover {
+  filter: brightness(150%);
+}
+
+.rectangle7:hover {
+  filter: brightness(150%);
+}
+
+.rectangle8:hover {
+  filter: brightness(150%);
+}
+
+.rectangle9:hover {
+  filter: brightness(150%);
+}
+
+.rectangle10:hover {
+  filter: brightness(150%);
+}
+
+.title {
+  margin-top: 25px;
+  margin-bottom: 25px;
+  font-size: 28px;
+  font-family: 'Helvetica';
+  font-weight: bold;
+}
+
+.naming {
+  margin-bottom: 10px;
+}
+
+.text {
+  color: #303030;
+  border-radius: 7px;
+  font-size: 25px;
+  width: 300px;
+}
+
+.button {
+  margin-top: 10px;
+  font-size: 15px;
+  background-color: #404040;
+  outline: none;
+  border-radius: 7px;
+  color: white;
+  border: none;
+  transition: 0.4s;
+  width: 310px;
+  height:30px;
+}
+
+.button:hover {
+  filter: brightness(150%);
+}
+
+.addsongs {
+  margin-top: 10px;
+  font-size: 15px;
+  background-color: #404040;
+  outline: none;
+  border-radius: 7px;
+  color: white;
+  border: none;
+  transition: 0.4s;
+  width: 310px;
+  height:30px;
+}
+
+.addsongs:hover {
+  filter: brightness(150%);
+}
+
+img[alt="Albumart1"] {
+  max-width: 200px;
+  max-height: 200px;
+  color: pink;
+  margin-right: 275px;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  border-radius: 10px;
+}
+
+.mini1 {
+ display: flex;
+ flex-wrap: wrap;
+ font-size: 10px;
+}
+
+img[alt="Albumart2"] {
+ max-width: 40px;
+ max-height: 40px;
+ color: pink;
+ border-radius: 10px;
+ margin-left:10px;
+ margin-right:20px;
+}
+
+.smallImage {
+ display: flex;
+ align-items: center;
+ margin-left: 10px;
+ margin-top: 18px;
+ margin-bottom: 8px;
+ margin-right: 20px;
+}
+
+.timeline {
+  margin-top: 20px;
+}
+
+.topName {
+  margin-right:10px;
+  margin-left: 10px;
+  margin-top: 15px;
+}
+
+.intro {
+  background: #282828;
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+.smallButton {
+  border-radius: 120px;
+  max-height: 50px;
+  max-width: 50px;
+  font-color: white;
+  background: #404040;
+  font-size: 10px;
+  transition: 0.4s;
+  outline: none;
+  border: none;
+
+}
+.smallButton:hover {
+  filter: brightness(150%);
+}
